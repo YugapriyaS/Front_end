@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+p,h4{
+    font-size: 24px;
+    color: bisque;
+}
+
+img {
+    border: 6px solid sandybrown;
+}
+
+.link{
+    text-decoration: none;
+    color: blue;
+}
+
+#heading1 {
+    background-color: chartreuse;
+}
